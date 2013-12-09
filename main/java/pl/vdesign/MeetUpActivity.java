@@ -40,6 +40,8 @@ public class MeetUpActivity extends ActionBarActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_meet_up);
 
+        //Komentarz
+
 
 
         // Create the adapter that will return a fragment for each of the three
